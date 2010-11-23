@@ -1,0 +1,5 @@
+- SD_Test
+
+This is simply the reference SD/FAT16 code configured to work with an SD card attached to ports on core #3 of an XC-2. To be updated with slightly more useful tests as these assume an XDK filesystem. 
+
+Currently an XDE (Eclipse) project and will output the results on the console executed.
